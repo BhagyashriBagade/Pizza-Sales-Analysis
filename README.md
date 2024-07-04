@@ -1,4 +1,4 @@
-# SQL-Portfolio
+# SQL-Project
 
 Hello, and thanks for stopping by! This repository contains examples of SQL I've written for solo projects and while working through SQL, Python and data analytics courses. Below are a few highlighted projects, including data visualizations I created using Microsoft Power BI. 
 
