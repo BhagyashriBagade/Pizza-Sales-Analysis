@@ -1,7 +1,12 @@
 # SQL-Project
 
-Hello, and thanks for stopping by! This repository contains examples of SQL I've written for solo projects and while working through SQL, Python and data analytics courses. Below are a few highlighted projects, including data visualizations I created using Microsoft Power BI. 
+This project showcases Sql queries and data analysis techniques used to extract insights from a sample database. 
 
-## Highlighted Projects
+## Pizza Sales Analysis - SQL
 
-Pizza Sales Analysis - SQL : In this project, I used a dataset of pizza sales of Pizzahut to analyze data and find insights of sales.
+This project analyzes pizza sales data using SQL to extract insights and trends of sales. The dataset includes information from a pizza chain, and the queries aims to answer question about customer behaviour, sales performance,and product popularity.
+
+## Approach 
+- Data cleaning.
+- Exploratory Data Analysis.
+- Write SQL queries to extract insights & answer the business questions.
